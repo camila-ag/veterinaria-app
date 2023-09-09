@@ -1,6 +1,12 @@
-<p align="center">Proyecto para clinica veterinaria</p>
+# Veterinaria-app
 
-## Funcionalidades:
+Una aplicación web administrativa para una clínica veterinaria.
+
+## Tecnologias usadas
+
+HTML, Bootstrap, Javascript, MySQL, Laravel, Php, Twilio
+
+## Caracteristicas
 
 1. Inicio de sesión con rut y contraseña.
 2. Agregar nuevos pacientes eligiendo si el propietario es nuevo o ya está ingresado.
@@ -14,3 +20,10 @@
 6. Agendar, editar y cancelar consultas clinicas.
 7. Agendar, editar y cancelar cirugias.
 8. Por último se puede enviar avisos por SMS sobre siguiente dosis de vacuna o consultas proximas.
+
+## Screenshots
+
+![Captura de pantalla 2023-09-09 200253](https://github.com/camila-ag/veterinaria-app/assets/78826652/34e06cac-b1a6-4965-ba9a-e498080c530f)
+
+
+
